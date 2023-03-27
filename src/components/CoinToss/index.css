@@ -1,0 +1,35 @@
+/* Write your CSS here */
+.app-container {
+  background-image: linear-gradient(#e2a139, #f9d423);
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-container {
+  background-color: white;
+  border-radius: 10px;
+  height: 600px;
+  width: 30%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.toss-image {
+  height: 300px;
+  width: 300px;
+}
+
+.count-container {
+  display: flex;
+}
+
+.paragraph {
+  margin: 10px;
+  padding: 10px;
+}
